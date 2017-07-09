@@ -20,3 +20,14 @@ designer_website: http://twitter.com/Edface
 markdown: kramdown
 
 shambles_website: http://comedysoc.github.io/shambles-website
+
+prose:
+  siteurl: 'http://yorkcomedysoc.co.uk'
+  media: 'img'
+  ignore: ['_config.yml',
+           '_sass',
+           'CNAME',
+           '.gitignore',
+           'css',
+           'font-awesome',
+           'bootstrap']
