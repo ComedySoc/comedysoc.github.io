@@ -21,6 +21,9 @@ markdown: kramdown
 
 shambles_website: http://comedysoc.github.io/shambles-website
 
+plugins:
+  - jekyll-sitemap
+
 prose:
   siteurl: 'http://yorkcomedysoc.co.uk'
   media: 'img'
