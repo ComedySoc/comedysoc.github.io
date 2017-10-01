@@ -17,15 +17,13 @@ css: schedule.css
         </tr>
 
         {% for show in site.data.schedule %}
-          {% if show.datetime >= site.time %}
-            <tr>
-              <td>{{ show.title }}</td>
-              <td>{{ show.datetime | date_to_string }}</td>
-              <td>{{ show.datetime | date: "%H:%M" }}</td>
-              <td>{{ show.description }}</td>
-              <td>{{ show.location }}</td>
-            </tr>
-          {% endif %}
+          <tr>
+            <td>{{ show.title }}</td>
+            <td>{{ show.datetime | date_to_string }}</td>
+            <td>{{ show.datetime | date: "%H:%M" }}</td>
+            <td>{{ show.description }}</td>
+            <td>{{ show.location }}</td>
+          </tr>
       {% endfor %}
 
       </table>
