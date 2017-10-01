@@ -1,38 +1,41 @@
 - name: Chair
-  person: Eleanor Mason
+  person: Caitlin Powell
 
 - name: Vice-Chair
-  person: James Haikney
-
-- name: Secretary
-  person: Kate Weedy
-
-- name: Treasurer
-  person: Lewis Crook
-
-- name: Shambles Director
-  person: Ed Williams
-
-- name: Head of Stand Up
-  person: Mary O'Connell
-
-- name: Head of Writers
-  person: James Haikney
-
-- name: Press & Publicity Officer
   person: Edward Ray
 
+- name: Secretary
+  person: Eliza Martin
+
+- name: Treasurer
+  person: George Blackman
+
+- name: Shambles Directors
+  person: Qumarth Jash & Georgina Newman
+
+- name: Head of Stand Up
+  person: Caitlin Powell
+
+- name: Head of Writers
+  person: Ollie Jones
+
+- name: Press & Publicity Officers
+  person: Rosalie Gardner & Alice Lloyd-Davies
+
 - name: Social Secretary
-  person: Amy Wilson
+  person: Andy Blackwell
 
-- name: Producer
-  person: Heeky Tak
-
-- name: Digital Content Manager
-  person: Kate Weedy
-
-- name: Ordinary Member
+- name: Show Producer
   person: Hannah Radley
 
+- name: Tech Producer
+  person: Emma Blackburn
+
+- name: Digital Content Managers
+  person: George Blackman & James Haikney
+
 - name: Ordinary Member
-  person: Caitlin Powell
+  person: Shevek Fodor
+
+- name: Ordinary Member
+  person: George Blackman
