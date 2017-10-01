@@ -1,44 +1,44 @@
+- title: ComedySoc Showcase
+  datetime: 2017-10-04 22:00:00
+  description: A taster of Improv, Stand-Up, and Sketch - fresh from the Edinburgh Fringe!
+  location: V/045
+
 - title: The Shambles
-  datetime: 2016-04-20 20:00:00
-  description: Come and see The Shambles do some Improv
+  datetime: 2017-10-11 22:00:00
+  description: An hour of songs, scenes and games based entirely on audience suggestions.
   location: V/045
 
 - title: Social
-  datetime: 2016-04-27 20:00:00
-  description: Make friends have laughs
-  location: V-Bar
+  datetime: 2017-10-18 22:00:00
+  description: Visiting Burning Duck Comedy Club in the city centre.
+  location: V/045 (start-point)
 
-- title: Never Mind the Buzzcocks
-  datetime: 2016-05-04 20:00:00
-  description: Pantsoc v Dramasoc
+- title: Have I Got News For York (feat. The Shambles)
+  datetime: 2017-10-25 22:00:00
+  description: ComedySoc's termly parody of the world famous satirical news quiz, with a warm-up from The Shambles!
   location: V/045
 
-- title: Stand Up
-  datetime: 2016-05-11 20:00:00
-  description: Stand up from the best York has to offer
+- title: Stand-Up
+  datetime: 2017-11-01 22:00:00
+  description: ComedySoc's talent takes to the mic!
   location: V/045
 
-- title: Have I Got News For York
-  datetime: 2016-05-18 20:00:00
-  description: Jokes and news
+- title: Never Mind The Buzzcocks
+  datetime: 2017-11-08 22:00:00
+  description: A music-based quiz straight off the telly.
   location: V/045
 
-- title: 10 Years Anniversary
-  datetime: 2016-05-28 20:00:00
-  description: The ComedySoc alumni are back, and this time, it's personal
-  location: Roger Kirk Centre
-
-- title: Comedy@Courtyard
-  datetime: 2016-06-01 20:00:00
-  description: Tickets cannot be purchased with YoYo wallet
-  location: Courtyard
-
-- title: 24 hours of Comedy
-  datetime: 2016-06-09 20:00:00
-  description: Our 24 hour long show! Lasting from the 9th June to the 10th
+- title: ComedySoc Presents
+  datetime: 2017-11-15 22:00:00
+  description: We give YOU the chance to pitch a show for the iconic ComedySoc stage. Pitches open 02/10/17.
   location: V/045
 
-- title: Shambles and Edinburgh Preview
-  datetime: 2016-06-15 20:00:00
-  description: Haggis not included
+- title: Freshers' Sketch Show (feat. Stand-Up)
+  datetime: 2017-11-22 22:00:00
+  description: ComedySoc's newest members band together to put on a sketch show that showcases all-new talent, with a warm up from our Stand-Ups!
+  location: V/045
+
+- title: Shambaubles
+  datetime: 2017-11-29 22:00:00
+  description: Improvised comedy with a Christmas twist!
   location: V/045
