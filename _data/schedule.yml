@@ -1,44 +1,4 @@
-- title: ComedySoc Showcase
-  datetime: 2017-10-04 20:00:00
-  description: A taster of Improv, Stand-Up, and Sketch - fresh from the Edinburgh Fringe!
-  location: V/045
-
-- title: The Shambles
-  datetime: 2017-10-11 20:00:00
-  description: An hour of songs, scenes and games based entirely on audience suggestions.
-  location: V/045
-
-- title: Social
-  datetime: 2017-10-18 20:00:00
-  description: Visiting Burning Duck Comedy Club in the city centre.
-  location: V/045 (start-point)
-
-- title: Have I Got News For York (feat. The Shambles)
-  datetime: 2017-10-25 20:00:00
-  description: ComedySoc's termly parody of the world famous satirical news quiz, with a warm-up from The Shambles!
-  location: V/045
-
-- title: Stand-Up
-  datetime: 2017-11-01 20:00:00
-  description: ComedySoc's talent takes to the mic!
-  location: V/045
-
-- title: Never Mind The Buzzcocks
-  datetime: 2017-11-08 20:00:00
-  description: A music-based quiz straight off the telly.
-  location: V/045
-
-- title: ComedySoc Presents
-  datetime: 2017-11-15 20:00:00
-  description: We give YOU the chance to pitch a show for the iconic ComedySoc stage. Pitches open 02/10/17.
-  location: V/045
-
-- title: Freshers' Sketch Show (feat. Stand-Up)
-  datetime: 2017-11-22 20:00:00
-  description: ComedySoc's newest members band together to put on a sketch show that showcases all-new talent, with a warm up from our Stand-Ups!
-  location: V/045
-
-- title: Shambaubles
-  datetime: 2017-11-29 20:00:00
-  description: Improvised comedy with a Christmas twist!
-  location: V/045
+# - title: ComedySoc Showcase
+#   datetime: 2017-10-04 20:00:00
+#   description: A taster of Improv, Stand-Up, and Sketch - fresh from the Edinburgh Fringe!
+#   location: V/045

@@ -1,41 +1,44 @@
 - name: Chair
-  person: Caitlin Powell
-
-- name: Vice-Chair
-  person: Edward Ray
-
-- name: Secretary
-  person: Eliza Martin
-
-- name: Treasurer
   person: George Blackman
 
+- name: Vice-Chair
+  person: Alice Lloyd-Davies
+
+- name: Secretary
+  person: Becky Chatwell
+
+- name: Treasurer
+  person: James Harvey
+
 - name: Shambles Directors
-  person: Qumarth Jash & Georgina Newman
+  person: Andy Blackwell & George Blackman
+
+- name: Present & Correct Director
+  person: Alice Lloyd-Davies
 
 - name: Head of Stand Up
-  person: Caitlin Powell
+  person: Adam Al-Janabi
 
 - name: Head of Writers
   person: Ollie Jones
 
 - name: Press & Publicity Officers
-  person: Rosalie Gardner & Alice Lloyd-Davies
+  person: Vacant
 
 - name: Social Secretary
   person: Andy Blackwell
 
 - name: Show Producer
-  person: Hannah Radley
+  person: Catherine Woolley
 
 - name: Tech Producer
-  person: Emma Blackburn
+  person: Nicholas Lau
 
 - name: Digital Content Managers
-  person: George Blackman & James Haikney
+  person: Kieran Dawson & Kieran Cockburn
 
 - name: Ordinary Member
-  person: Shevek Fodor
+  person: Chris Wilkinson
 
-- name: Ordinary Member
-  person: George Blackman
+- name: Webmaster
+  person: Qumarth Jash
