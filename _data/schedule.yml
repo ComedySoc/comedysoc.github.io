@@ -1,4 +1,40 @@
-# - title: ComedySoc Showcase
+# - title: Title of the show
 #   datetime: 2017-10-04 20:00:00
-#   description: A taster of Improv, Stand-Up, and Sketch - fresh from the Edinburgh Fringe!
-#   location: V/045
+#   description: Description of show
+#   location: location
+
+- title: The ComedySoc Showcase
+  datetime: 2018-10-3 19:00:00
+  location: V/045
+
+- title: The Shambles
+  datetime: 2018-10-10 19:00:00
+  location: V/045
+
+- title: Open Mic
+  datetime: 2018-10-17 19:00:00
+  location: V/045
+
+- title: Have I Got News For York! (with a stand up warm up)
+  datetime: 2018-10-24 19:00:00
+  location: V/045
+
+- title: Spoopy Halloween Social
+  datetime: 2018-10-31 20:00:00
+  location: To Be Announced Soon!
+
+- title: Horrible Histories
+  datetime: 2018-11-7 20:00:00
+  location: V/045
+
+- title: Stand Up
+  datetime: 2018-11-14 20:00:00
+  location: V/045
+
+- title: The Freshers Sketch Show
+  datetime: 2018-11-21 20:00:00
+  location: V/045
+
+- title: 'Shambaubles: The Shambles Christmas Special'
+  datetime: 2018-11-28 20:00:00
+  location: V/045

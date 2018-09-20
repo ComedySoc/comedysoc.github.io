@@ -13,7 +13,6 @@ css: schedule.css
           <th>Show</th>
           <th>Date</th>
           <th>Time</th>
-          <th>Description</th>
           <th>Location</th>
         </tr>
 
@@ -22,7 +21,6 @@ css: schedule.css
             <td>{{ show.title }}</td>
             <td>{{ show.datetime | date_to_string }}</td>
             <td>{{ show.datetime | date: "%H:%M" }}</td>
-            <td>{{ show.description }}</td>
             <td>{{ show.location }}</td>
           </tr>
       {% endfor %}
