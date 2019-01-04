@@ -14,8 +14,8 @@ the chance to try out your ideas or get inspiration from others in a <span
 class="red">pressure free</span> environment.
 
 We also go to the Edinburgh Fringe every year in the form of two shows; our
-sketch show, [Present &
-Correct](http://www.nouse.co.uk/2015/08/15/edinburgh-fringe-2015-review-present-and-correct/)
+sketch show, [The Dead
+Ducks](http://www.nouse.co.uk/2015/08/15/edinburgh-fringe-2015-review-present-and-correct/)
 and our Improv show, [The Shambles]({{site.shambles_website}}).
 
 <h3 class="red">I want get involved!</h3>
