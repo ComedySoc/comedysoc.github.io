@@ -21,7 +21,7 @@ markdown: kramdown
 
 shambles_website: http://comedysoc.github.io/shambles-website
 
-plugins:
+plugins_dir:
   - jekyll-sitemap
 
 prose:
