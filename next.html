@@ -2,52 +2,83 @@
 layout: blank
 css: /index.css
 ---
-<div class="container-fluid">
+<div class="row">
+  <div class="col-md-6 col-md-offset-3 col-xs-12">
+    <h3 id="title" class="cooper">ComedySoc</h3>
+  </div>
+</div>
 
-  <div class="row">
-    <div class="col-md-6 col-md-offset-3 col-xs-12">
-      <h3 id="title" class="cooper">ComedySoc</h3>
-    </div>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div class="row">
+
+  <div class="col-md-3 col-xs-12">
+    <img
+       id="logo"
+       alt="ComedySoc logo"
+       src="{{site.github.url}}/img/logo.svg"/>
   </div>
 
-  <div class="row">
-    {% comment %} <div class="col-md-3 cooper buzzwords"> {% endcomment %}
-    {% comment %}   <h2>Watch</h2> {% endcomment %}
-    {% comment %}   </br> {% endcomment %}
-    {% comment %}   <h2>Perform</h2> {% endcomment %}
-    {% comment %}   </br> {% endcomment %}
-    {% comment %}   <h2>Write</h2> {% endcomment %}
-    {% comment %}   </br> {% endcomment %}
-    {% comment %} </div> {% endcomment %}
-
-    <div class="col-md-3 col-xs-12">
-      <img
-	 id="logo"
-	 alt="ComedySoc logo"
-	 src="{{site.github.url}}/img/logo.svg"/>
-    </div>
-
-    {% comment %} TODO: Add text for when no shows {% endcomment %}
-    {% comment %} TODO: Add text for free shows {% endcomment %}
-
-    <div class="col-md-9 cooper buzzwords">
-      <h2>Our Next Show is:</h2>
-      </br>
-      {% for show in site.data.schedule %}
-	{% if show.datetime >= site.time %}
-	  <h1 id="title">{{ show.title }}</h1>
-	  </br>
-	  <h2>{{ show.datetime | date: "%A %B %e at %k:%M"}}</h2>
-	  <h2>{{ show.location }}</h2>
-	  <h2>Tickets: £{{show.non-member-price}}/{{show.member-price}} (Non-Members, Members)</h2>
-	  </br>
+  <div class="col-md-9 cooper buzzwords">
+    </br>
+    {% assign there_is_a_show_on = false %}
+    {% for show in site.data.schedule %}
+      {% if show.datetime >= site.time %}
+	{% assign there_is_a_show_on = true %}
+	<h2>Our Next Show is:</h2>
+	<h1 id="title">{{ show.title }}</h1>
+	</br>
+	<h2>{{ show.datetime | date: "%A %B %e at %k:%M"}}</h2>
+	<h2>{{ show.location }}</h2>
+	<h2>Tickets:
+	  {% if show.non-member-price == 0 %}
+	    Free
+	  {% else %}
+	    £{{show.non-member-price}}
+	  {% endif %}
+	  /
+	  {% if show.member-price == 0 %}
+	    Free
+	  {% else %}
+	    £{{show.member-price}}
+	  {% endif %}
+	  (Non-Members, Members)</h2>
+	</br>
+	{% if show.non-member-price != 0 %}
 	  <h2>Bring your ticket from this YSC showing to get a £1 discount on your ticket!</h2>
 	  <h5>ComedySoc members are not eligible for this discount</h5>
-	  {% break %}
 	{% endif %}
-      {% endfor %}
-      </br>
-      </br>
-    </div>
+	{% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% if there_is_a_show_on == false %}
+      <h2>Shows every Wednesday night of term</h2>
+      <h2>V/N/045</h2>
+      <h2>Tickets: £2/3 (Non-Members, Members)</h2>
+    {% endif %}
   </div>
+</div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div class="row">
+  {% for account in site.data.social %}
+    {% if account.handle %}
+    <div class="col-md-3 col-xs-12">
+      <h3>{{ account.icon}} {{account.handle}}</h3>
+    </div>
+    {% endif %}
+  {% endfor%}
+    <div class="col-md-3 col-xs-12">
+      <h3><i class="fa fa-globe"></i> yorkcomedysoc.co.uk</h3>
+    </div>
 </div>
