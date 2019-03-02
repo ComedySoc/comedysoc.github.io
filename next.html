@@ -73,12 +73,9 @@ css: /index.css
 <div class="row">
   {% for account in site.data.social %}
     {% if account.handle %}
-    <div class="col-md-3 col-xs-12">
-      <h3>{{ account.icon}} {{account.handle}}</h3>
+    <div class="col-md-4 col-xs-12">
+      <h2>{{ account.icon}} {{account.handle}}</h2>
     </div>
     {% endif %}
   {% endfor%}
-    <div class="col-md-3 col-xs-12">
-      <h3><i class="fa fa-globe"></i> yorkcomedysoc.co.uk</h3>
-    </div>
 </div>
