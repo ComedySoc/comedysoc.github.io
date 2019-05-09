@@ -4,55 +4,55 @@
 #   location: location
 
 - title: The Shambles
-  datetime: 2019-01-16 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
-
-- title: ComedySoc does 8 Out of 10 Cats Does Countdown
-  datetime: 2019-01-23 20:00:00
+  datetime: 2019-04-25 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
 - title: Social
-  datetime: 2019-01-30 20:00:00
-  location: TBA
+  datetime: 2019-05-03 20:00:00
+  location: The Charles
   member-price: 2
   non-member-price: 3
 
-- title: Have I Got News For York
-  datetime: 2019-02-06 20:00:00
+- title: Open Mic
+  datetime: 2019-05-09 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: ComedySoc Presents
-  datetime: 2019-02-13 20:00:00
+- title: Have I Got News For York
+  datetime: 2019-05-16 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
 - title: Stand Up
-  datetime: 2019-02-20 20:00:00
+  datetime: 2019-05-23 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: The Dead Ducks
-  datetime: 2019-02-27 20:00:00
+- title: Would I Lie To York
+  datetime: 2019-05-30 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: The Women's Show
-  datetime: 2019-03-06 20:00:00
+- title: The Summer Sketch Show
+  datetime: 2019-06-06 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: The Shambles
-  datetime: 2019-03-13 20:00:00
+- title: 24 Hours of Comedy
+  datetime: 2019-06-15 20:00:00
+  location: V/N/045
+  member-price: 2
+  non-member-price: 3
+
+- title: Showcial
+  datetime: 2019-06-20 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
