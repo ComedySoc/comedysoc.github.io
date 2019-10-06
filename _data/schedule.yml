@@ -3,56 +3,56 @@
 #   description: Description of show
 #   location: location
 
-- title: The Shambles
-  datetime: 2019-04-25 20:00:00
+- title: Fresher's Showcase
+  datetime: 2019-10-10 20:00:00
+  location: V/N/045
+  member-price: 2
+  non-member-price: 3
+
+- title: The Shambles (Improv)
+  datetime: 2019-10-17 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
 - title: Social
-  datetime: 2019-05-03 20:00:00
-  location: The Charles
-  member-price: 2
-  non-member-price: 3
-
-- title: Open Mic
-  datetime: 2019-05-09 20:00:00
-  location: V/N/045
+  datetime: 2019-10-23 20:00:00
+  location: TBA
   member-price: 2
   non-member-price: 3
 
 - title: Have I Got News For York
-  datetime: 2019-05-16 20:00:00
+  datetime: 2019-10-30 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: Stand Up
-  datetime: 2019-05-23 20:00:00
+- title: Open Mic
+  datetime: 2019-11-06 20:00:00
+  location: V/N/045
+  member-price: 2
+  non-member-price: 3
+
+- title: Stand-Up
+  datetime: 2019-11-13 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
 - title: Would I Lie To York
-  datetime: 2019-05-30 20:00:00
+  datetime: 2019-11-20 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: The Summer Sketch Show
-  datetime: 2019-06-06 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
-
-- title: 24 Hours of Comedy
-  datetime: 2019-06-15 20:00:00
+- title: Fresher's Sketch Show
+  datetime: 2019-11-27 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
 - title: Showcial
-  datetime: 2019-06-20 20:00:00
+  datetime: 2019-12-4 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
