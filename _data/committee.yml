@@ -1,44 +1,44 @@
 - name: Chair
-  person: George Blackman
-
-- name: Vice-Chair
-  person: Alice Lloyd-Davies
-
-- name: Secretary
-  person: Becky Chatwell
-
-- name: Treasurer
   person: James Harvey
 
+- name: Vice-Chair
+  person: Kieran Dawson
+
+- name: Secretary
+  person: Georgia Craig
+
+- name: Treasurer
+  person: Robert Smith
+
 - name: Shambles Directors
-  person: Andy Blackwell & George Blackman
+  person: Joe Hesketh & Kieran Cockburn
 
 - name: Dead Ducks Director
-  person: Alice Lloyd-Davies
+  person: Chris Wilkinson
 
 - name: Head of Stand Up
-  person: Adam Al-Janabi
+  person: Kieran Dawson
 
 - name: Head of Writers
-  person: Ollie Jones
+  person: James Harvey
 
 - name: Press & Publicity Officer
-  person: Freya Dawes
+  person: Ted Cartwright
 
 - name: Social Secretary
-  person: Andy Blackwell
+  person: Grace Sanders
 
 - name: Show Producer
-  person: Catherine Woolley
+  person: Tolu Ojo
 
 - name: Tech Producer
-  person: Vacant
+  person: Sophie Wagstaff
 
 - name: Digital Content Managers
-  person: Kieran Dawson & Kieran Cockburn
+  person: Sam Jones
 
 - name: Ordinary Members
-  person: Chris Wilkinson & Georgia Craig
+  person: Louis Ingle
 
 - name: Webmaster
-  person: Qumarth Jash
+  person: Tolu Ojo
