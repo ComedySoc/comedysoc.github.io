@@ -10,7 +10,7 @@
 - name: Treasurer
   person: Robert Smith
 
-- name: Shambles Directors
+- name: Shambles Director
   person: Kieran Cockburn
 
 - name: Dead Ducks Director
@@ -38,7 +38,7 @@
   person: Sam Jones
 
 - name: Ordinary Members
-  person: Louis Ingle
+  person: Louis Ingle, Georgia Craig
 
 - name: Webmaster
   person: Tolu Ojo
