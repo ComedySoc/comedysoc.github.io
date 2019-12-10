@@ -3,56 +3,56 @@
 #   description: Description of show
 #   location: location
 
-- title: Fresher's Showcase
-  datetime: 2019-10-10 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
-
 - title: The Shambles (Improv)
-  datetime: 2019-10-17 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
-
-- title: Social
-  datetime: 2019-10-23 20:00:00
-  location: TBA
-  member-price: 2
-  non-member-price: 3
-
-- title: Have I Got News For York
-  datetime: 2019-10-30 20:00:00
+  datetime: 2020-01-15 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
 - title: Open Mic
-  datetime: 2019-11-06 20:00:00
+  datetime: 2020-01-22 20:00:00
   location: V/N/045
+  member-price: 2
+  non-member-price: 3
+
+- title: Social
+  datetime: 2020-01-29 20:00:00
+  location: TBA
   member-price: 2
   non-member-price: 3
 
 - title: Stand-Up
-  datetime: 2019-11-13 20:00:00
+  datetime: 2020-02-05 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: Would I Lie To York
-  datetime: 2019-11-20 20:00:00
+- title: HIGNFY
+  datetime: 2020-02-12 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: Fresher's Sketch Show
-  datetime: 2019-11-27 20:00:00
+- title: ComedySoc Presents ...
+  datetime: 2020-02-19 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
 
-- title: Shambaubles
-  datetime: 2019-12-4 20:00:00
+- title: Dead Ducks
+  datetime: 2020-02-26 20:00:00
+  location: V/N/045
+  member-price: 2
+  non-member-price: 3
+
+- title: Women's Show
+  datetime: 2020-03-04 20:00:00
+  location: V/N/045
+  member-price: 2
+  non-member-price: 3
+
+- title: Shambles Longform
+  datetime: 2020-03-11 20:00:00
   location: V/N/045
   member-price: 2
   non-member-price: 3
