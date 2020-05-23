@@ -3,56 +3,62 @@
 #   description: Description of show
 #   location: location
 
-- title: The Shambles (Improv)
-  datetime: 2020-01-15 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: I'm Sorry I Haven't A Goose
+  datetime: 2020-04-15 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: Open Mic
-  datetime: 2020-01-22 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: Shit + Wires - Happy Hour
+  datetime: 2020-04-22 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: Social
-  datetime: 2020-01-29 20:00:00
-  location: TBA
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: The Unbelievable Truth
+  datetime: 2020-04-29 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: Stand-Up
-  datetime: 2020-02-05 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: GUYS - A Dog With Hands
+  datetime: 2020-05-06 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: Have I Got News For York
-  datetime: 2020-02-12 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: Beast Quest Review
+  datetime: 2020-05-13 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: ComedySoc Presents ...
-  datetime: 2020-02-19 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: Drunk Screenplay Club
+  datetime: 2020-05-20 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: Dead Ducks
-  datetime: 2020-02-26 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: ComedySoc Roundtable
+  datetime: 2020-05-27 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: Women's Show
-  datetime: 2020-03-04 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: The Shambles
+  datetime: 2020-06-03 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
 
-- title: Shambles Longform
-  datetime: 2020-03-11 20:00:00
-  location: V/N/045
-  member-price: 2
-  non-member-price: 3
+- title: ComedySoc Podcast: Dead Ducks
+  datetime: 2020-06-10 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
+
+- title: TBA
+  datetime: 2020-06-17 20:00:00
+  location: N/A
+  member-price: 0
+  non-member-price: 0
