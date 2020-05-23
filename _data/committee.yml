@@ -1,44 +1,44 @@
 - name: Chair
-  person: James Harvey
+  person: Sam Jones
 
 - name: Vice-Chair
-  person: Kieran Dawson
+  person: Geo Craig
 
 - name: Secretary
-  person: Georgia Craig
+  person: Pierre Lewis
 
 - name: Treasurer
-  person: Robert Smith
+  person: Leo Betru
 
-- name: Shambles Director
-  person: Kieran Cockburn
+- name: Shambles Directors
+  person: James Harvey, Geo Craig
 
 - name: Dead Ducks Director
-  person: Chris Wilkinson
+  person: Emily Brighty
 
 - name: Head of Stand Up
-  person: Kieran Dawson
+  person: Grace Sanders, Sam Jones
 
 - name: Head of Writers
-  person: James Harvey
+  person: Pierre Lewis, James Harvey
 
 - name: Press & Publicity Officer
-  person: Ted Cartwright
+  person: Chloe Hodgson
 
 - name: Social Secretary
-  person: Grace Sanders
+  person: Cat Wooley
 
 - name: Show Producer
-  person: Tolu Ojo
+  person: Rob Smith
 
 - name: Head of Tech
   person: Sophie Wagstaff
 
 - name: Digital Content Managers
-  person: Sam Jones
+  person: Harry Cole, Maxwell Smales
 
 - name: Ordinary Members
-  person: Louis Ingle, Georgia Craig
+  person: Elizabeth Diamond, Rohan Ashar
 
 - name: Webmaster
-  person: Tolu Ojo
+  person: Chloe Hodgson
