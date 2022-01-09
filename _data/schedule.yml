@@ -3,56 +3,56 @@
 #   description: Description of show
 #   location: location
 
-- title: ComedySoc Podcast- I'm Sorry I Haven't A Goose
-  datetime: 2020-04-15 16:00:00
-  location: N/A
+- title: The Shambles
+  datetime: 2022-01-19 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - Shit + Wires ("Happy Hour")
-  datetime: 2020-04-22 16:00:00
-  location: N/A
+- title: Open Mic Night
+  datetime: 2022-01-26 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - The Unbelievable Truth
-  datetime: 2020-04-29 16:00:00
-  location: N/A
+- title: Would I Lie to York
+  datetime: 2022-02-02 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - GUYS ("A Dog With Hands")
-  datetime: 2020-05-06 16:00:00
-  location: N/A
+- title: Stand-up
+  datetime: 2022-02-09 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - Beast Quest Review
-  datetime: 2020-05-13 16:00:00
-  location: N/A
+- title: "ComedySoc Presents: Plays"
+  datetime: 2022-02-16 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - Drunk Screenplay Club
-  datetime: 2020-05-20 16:00:00
-  location: N/A
+- title: ComedySoc does 8 out of 10 cats does Countdown
+  datetime: 2022-02-23 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - ComedySoc Roundtable
-  datetime: 2020-05-27 16:00:00
-  location: N/A
+- title: The Dead Ducks
+  datetime: 2022-03-02 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - The Shambles
-  datetime: 2020-06-03 16:00:00
-  location: N/A
+- title: The Women and Non-binary Show
+  datetime: 2022-03-09 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
 
-- title: ComedySoc Podcast - Dead Ducks
-  datetime: 2020-06-10 16:00:00
-  location: N/A
+- title: The Shambles
+  datetime: 2022-03-16 20:00:00
+  location: V/N/045
   member-price: 0
   non-member-price: 0
